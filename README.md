@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lê Tân</h1>
 <h3 align="center">A backend developer from Vietnam</h3>
-
+<p align="center">
+    I am a backend developer with experience in building scalable and high-performance applications.  
+    Passionate about backend technologies, database management, and system architecture.  
+    Always eager to learn new technologies and improve my skills.
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taannnleee&label=Profile%20views&color=0e75b6&style=flat" alt="taannnleee" /> </p>
 
 <h3 align="left">Connect with me:</h3>
