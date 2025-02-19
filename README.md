@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tân-lê" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lê-tân-346600223" height="30" width="40" /></a>
-<a href="[https://www.facebook.com/your-facebook-profile](https://www.facebook.com/profile.php?id=100011319489082)" target="blank">
+<a href="https://www.facebook.com/profile.php?id=100011319489082" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
 </a>
 
