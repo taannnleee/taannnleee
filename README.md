@@ -31,6 +31,9 @@
 <p align="center">
     <em>"Where there is a way, there is a will."</em>
 </p>
+<p align="center">
+    <em>"Nơi nào có ý chí, nơi đó có con đường."</em>
+</p>
 
 
 
